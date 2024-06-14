@@ -1,0 +1,9 @@
+{
+    "ros.distro": "noetic",
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "algorithm": "cpp",
+        "ostream": "cpp",
+        "initializer_list": "cpp"
+    }
+}
